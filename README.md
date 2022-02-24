@@ -12,7 +12,7 @@
 
 <table cellspacing="20">
 <tr>
-<td><img src="IMG_76633-modified.png" alt="meri photo a bai"></td>
+<td><img src="https://pbs.twimg.com/profile_images/1247482752351588352/EgHoUNqQ_400x400.jpg" alt="meri photo a bai"></td>
 <td><h1> CHIRAG BATHEJA </h1>
 <br>
 
